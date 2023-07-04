@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<compiereTrl baseLanguage="en_US" language="es_ES" table="AD_REFERENCE" version="">
+  <row id="48DF4F685A6B4178967019AD465DD8BD" trl="N">
+    <value column="Name" isTrl="N" original="SHPPEV_Reason_List">SHPPEV_Reason_List</value>
+    <value column="Description" isTrl="N" original="SHPPEV_Reason_List">SHPPEV_Reason_List</value>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
+  <row id="87FECFE2597144158E700D832042781E" trl="N">
+    <value column="Name" isTrl="N" original="SHPPEV_Creditor">SHPPEV_Creditor</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
+  <row id="949AE47B147B4269A8E8ADE07A415057" trl="N">
+    <value column="Name" isTrl="N" original="SHPPEV_LIfestyle_List">SHPPEV_LIfestyle_List</value>
+    <value column="Description" isTrl="N" original="SHPPEV_LIfestyle_List">SHPPEV_LIfestyle_List</value>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
+  <row id="9D158F162F1F48E0ACCF686CF07F91E7" trl="N">
+    <value column="Name" isTrl="N" original="SHPPEV_Age_List">SHPPEV_Age_List</value>
+    <value column="Description" isTrl="N" original="SHPPEV_Age_List">SHPPEV_Age_List</value>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
+  <row id="D6057DDC0D924847B5F2690B0A462C8C" trl="N">
+    <value column="Name" isTrl="N" original="SHPPEV_LifeStyle_Ans">SHPPEV_LifeStyle_Ans</value>
+    <value column="Description" isTrl="N" original="SHPPEV_LifeStyle_Ans">SHPPEV_LifeStyle_Ans</value>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
+</compiereTrl>

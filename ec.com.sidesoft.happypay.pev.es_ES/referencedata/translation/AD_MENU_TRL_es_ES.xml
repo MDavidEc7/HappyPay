@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<compiereTrl baseLanguage="en_US" language="es_ES" table="AD_MENU" version="">
+  <row id="0C4FFC2FDD9D4B5F9EE29A8C3110863C" trl="Y">
+    <value column="Name" isTrl="Y" original="Email Reason">Motivos de Correo</value>
+    <value column="Description" isTrl="N" original="Email Reason">Email Reason</value>
+  </row>
+  <row id="3ECC51242307405FB1D38BC65D7CDCD9" trl="N">
+    <value column="Name" isTrl="N" original="PEV">PEV</value>
+    <value column="Description" isTrl="N" original="PEV">PEV</value>
+  </row>
+  <row id="71B30D797FF44B4CBCB36EB0E5004131" trl="Y">
+    <value column="Name" isTrl="Y" original="Reason Age">Edad</value>
+    <value column="Description" isTrl="N" original=""/>
+  </row>
+  <row id="9715ED2AD06C48DA96BD8CF06DD51780" trl="N">
+    <value column="Name" isTrl="Y" original="Identification Reason">Motivo de Cedulas</value>
+    <value column="Description" isTrl="N" original=""/>
+  </row>
+  <row id="A5F4A424E4F74901A5311A8DEE245AF8" trl="Y">
+    <value column="Name" isTrl="Y" original="Internal Debt">Deuda Interna</value>
+    <value column="Description" isTrl="N" original=""/>
+  </row>
+  <row id="AF31C2B24DA647B6ACF62E5B527D51D5" trl="Y">
+    <value column="Name" isTrl="Y" original="Reason of profession">Motivo de Profesión</value>
+    <value column="Description" isTrl="N" original=""/>
+  </row>
+  <row id="AFF9DDE06AC34F89B83A871C2F2175FB" trl="Y">
+    <value column="Name" isTrl="Y" original="Phone Reason">Motivo de Teléfonos</value>
+    <value column="Description" isTrl="N" original=""/>
+  </row>
+  <row id="D04ABAA530DC4D5980408774C3969ED9" trl="Y">
+    <value column="Name" isTrl="Y" original="Reasons of State Of Life">Motivos de Estado de Vida</value>
+    <value column="Description" isTrl="N" original=""/>
+  </row>
+  <row id="E0655E8247324548AC682A7314372C5E" trl="Y">
+    <value column="Name" isTrl="Y" original="Configuration">Configuración</value>
+    <value column="Description" isTrl="N" original=""/>
+  </row>
+  <row id="E78C3B615D2642DD9CE716A49B308D22" trl="Y">
+    <value column="Name" isTrl="Y" original="Reason">Motivo</value>
+    <value column="Description" isTrl="N" original=""/>
+  </row>
+</compiereTrl>

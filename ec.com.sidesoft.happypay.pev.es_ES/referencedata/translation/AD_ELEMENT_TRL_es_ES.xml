@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<compiereTrl baseLanguage="en_US" language="es_ES" table="AD_ELEMENT" version="">
+  <row id="023CD74719D144FA98807609CB5D0595" trl="Y">
+    <value column="Name" isTrl="Y" original="Lowerrangemount">Rango Inf. Monto</value>
+    <value column="PrintName" isTrl="Y" original="Lowerrangemount">Rango Inf. Monto</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original=""/>
+    <value column="PO_PrintName" isTrl="N" original=""/>
+  </row>
+  <row id="037EBC459CCC48478D92200D25CE3D11" trl="Y">
+    <value column="Name" isTrl="Y" original="Shop_Group">Grupo de Tienda</value>
+    <value column="PrintName" isTrl="Y" original="Shop_Group">Grupo de Tienda</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original=""/>
+    <value column="PO_PrintName" isTrl="N" original=""/>
+  </row>
+  <row id="0757FB4485BB490E9FB7E41A0BFA78DE" trl="Y">
+    <value column="Name" isTrl="Y" original="Profession">Profesión</value>
+    <value column="PrintName" isTrl="Y" original="Profession">Profesión</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original=""/>
+    <value column="PO_PrintName" isTrl="N" original=""/>
+  </row>
+  <row id="0A0A9C3173F645479A23A73D2254D0EB" trl="Y">
+    <value column="Name" isTrl="Y" original="Relatedidentification">Cédula Relacionada</value>
+    <value column="PrintName" isTrl="Y" original="Relatedidentification">Cédula Relacionada</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original=""/>
+    <value column="PO_PrintName" isTrl="N" original=""/>
+  </row>
+  <row id="0DD4FB32C40746E9AE5B9506989992C7" trl="Y">
+    <value column="Name" isTrl="Y" original="Reason">Motivo</value>
+    <value column="PrintName" isTrl="Y" original="Reason">Motivo</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original=""/>
+    <value column="PO_PrintName" isTrl="N" original=""/>
+  </row>
+  <row id="173B4871E30742B49BFD0017814331B7" trl="N">
+    <value column="Name" isTrl="N" original="Shppev_Reason_Profession_ID">Shppev_Reason_Profession_ID</value>
+    <value column="PrintName" isTrl="N" original="Shppev_Reason_Profession_ID">Shppev_Reason_Profession_ID</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original=""/>
+    <value column="PO_PrintName" isTrl="N" original=""/>
+  </row>
+  <row id="1CB7E909494743C6908CD97E104A8C51" trl="Y">
+    <value column="Name" isTrl="Y" original="Creditor">Acreedor</value>
+    <value column="PrintName" isTrl="Y" original="Creditor">Acreedor</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original=""/>
+    <value column="PO_PrintName" isTrl="N" original=""/>
+  </row>
+  <row id="326A3AA0612749CCAA2746663585AB49" trl="N">
+    <value column="Name" isTrl="N" original="Shppev_Lifestyle_Reason_ID">Shppev_Lifestyle_Reason_ID</value>
+    <value column="PrintName" isTrl="N" original="Shppev_Lifestyle_Reason_ID">Shppev_Lifestyle_Reason_ID</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original=""/>
+    <value column="PO_PrintName" isTrl="N" original=""/>
+  </row>
+  <row id="352D9B6256BC4618B1A2B42E896D789B" trl="Y">
+    <value column="Name" isTrl="Y" original="Lifestyle">Estado de Vida</value>
+    <value column="PrintName" isTrl="Y" original="Lifestyle">Estado de Vida</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original=""/>
+    <value column="PO_PrintName" isTrl="N" original=""/>
+  </row>
+  <row id="45ADA32F85564054A8FDDBCF0165DE03" trl="Y">
+    <value column="Name" isTrl="Y" original="Answer">Respuesta</value>
+    <value column="PrintName" isTrl="Y" original="Answer">Respuesta</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original=""/>
+    <value column="PO_PrintName" isTrl="N" original=""/>
+  </row>
+  <row id="5D5A80AE6BD948D4A08718788A48DACC" trl="N">
+    <value column="Name" isTrl="N" original="Shppev_Phone_Reason_ID">Shppev_Phone_Reason_ID</value>
+    <value column="PrintName" isTrl="N" original="Shppev_Phone_Reason_ID">Shppev_Phone_Reason_ID</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original=""/>
+    <value column="PO_PrintName" isTrl="N" original=""/>
+  </row>
+  <row id="61AE19A666E94518BEC8BC813CAA15B9" trl="N">
+    <value column="Name" isTrl="N" original="Shppev_R_Identification_ID">Shppev_R_Identification_ID</value>
+    <value column="PrintName" isTrl="N" original="Shppev_R_Identification_ID">Shppev_R_Identification_ID</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original=""/>
+    <value column="PO_PrintName" isTrl="N" original=""/>
+  </row>
+  <row id="6B3B8D00CEC044E5BB36EA5C7C9530BE" trl="Y">
+    <value column="Name" isTrl="Y" original="Initial_Age">Edad Inicial</value>
+    <value column="PrintName" isTrl="Y" original="Initial_Age">Edad Inicial</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original="Age range allowed to access credit">Age range allowed to access credit</value>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original=""/>
+    <value column="PO_PrintName" isTrl="N" original=""/>
+  </row>
+  <row id="8608ECAA6A3945A19BC9314422076074" trl="Y">
+    <value column="Name" isTrl="Y" original="Upperrangedays">Rango Sup. Días</value>
+    <value column="PrintName" isTrl="Y" original="Upperrangedays">Rango Sup. Días</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original=""/>
+    <value column="PO_PrintName" isTrl="N" original=""/>
+  </row>
+  <row id="8FECE9CFE88D49AC86B1A45567A40407" trl="N">
+    <value column="Name" isTrl="N" original="Shppev_Reason_ID">Shppev_Reason_ID</value>
+    <value column="PrintName" isTrl="N" original="Shppev_Reason_ID">Shppev_Reason_ID</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original=""/>
+    <value column="PO_PrintName" isTrl="N" original=""/>
+  </row>
+  <row id="BE31CDC8981F4F8BA02EBDC75231011B" trl="N">
+    <value column="Name" isTrl="N" original="Shppev_Internal_Debt_ID">Shppev_Internal_Debt_ID</value>
+    <value column="PrintName" isTrl="N" original="Shppev_Internal_Debt_ID">Shppev_Internal_Debt_ID</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original=""/>
+    <value column="PO_PrintName" isTrl="N" original=""/>
+  </row>
+  <row id="C21CA191614E4ACA89E39BC4C9E3E924" trl="Y">
+    <value column="Name" isTrl="Y" original="Final_Age">Edad Final</value>
+    <value column="PrintName" isTrl="Y" original="Final_Age">Edad Final</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="Y" original="Limite del rango de edad para acceder al crédito">Age limit allowed to access credit</value>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original=""/>
+    <value column="PO_PrintName" isTrl="N" original=""/>
+  </row>
+  <row id="D2E395B0A387437A8D26865DF1043418" trl="Y">
+    <value column="Name" isTrl="Y" original="Identification">Cédula</value>
+    <value column="PrintName" isTrl="Y" original="Identification">Cédula</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original=""/>
+    <value column="PO_PrintName" isTrl="N" original=""/>
+  </row>
+  <row id="E9549B3EEC414BE9B71198F95E7C2896" trl="N">
+    <value column="Name" isTrl="N" original="Shppev_Age_ID">Shppev_Age_ID</value>
+    <value column="PrintName" isTrl="N" original="Shppev_Age_ID">Shppev_Age_ID</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original=""/>
+    <value column="PO_PrintName" isTrl="N" original=""/>
+  </row>
+  <row id="F2A1432C8EA54E77A56EA851433B8BA4" trl="Y">
+    <value column="Name" isTrl="Y" original="Upperrangemount">Rango Sup. Monto</value>
+    <value column="PrintName" isTrl="Y" original="Upperrangemount">Rango Sup. Monto</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original=""/>
+    <value column="PO_PrintName" isTrl="N" original=""/>
+  </row>
+  <row id="F3BB3FCD5C86400B9C9D05C409A2C878" trl="Y">
+    <value column="Name" isTrl="Y" original="Lowerrangedays">Rango Inf. Días</value>
+    <value column="PrintName" isTrl="Y" original="Lowerrangedays">Rango Inf. Días</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original=""/>
+    <value column="PO_PrintName" isTrl="N" original=""/>
+  </row>
+  <row id="FCCBC197782B4F0E8EB0249F07B0AC83" trl="N">
+    <value column="Name" isTrl="N" original="Shppev_Email_Reason_ID">Shppev_Email_Reason_ID</value>
+    <value column="PrintName" isTrl="N" original="Shppev_Email_Reason_ID">Shppev_Email_Reason_ID</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original=""/>
+    <value column="PO_PrintName" isTrl="N" original=""/>
+  </row>
+</compiereTrl>

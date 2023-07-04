@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<compiereTrl baseLanguage="en_US" language="es_ES" table="AD_MODULE" version="">
+  <row id="E7E6BA9AEF804C55AA934F683118A813" trl="Y">
+    <value column="Description" isTrl="Y" original="Profiling &amp; Assessment &amp; Check">Perfilación, Evaluación y Verificación</value>
+    <value column="Help" isTrl="N" original=""/>
+    <value column="License" isTrl="N" original=""/>
+    <value column="Updateinfo" isTrl="N" original=""/>
+  </row>
+</compiereTrl>

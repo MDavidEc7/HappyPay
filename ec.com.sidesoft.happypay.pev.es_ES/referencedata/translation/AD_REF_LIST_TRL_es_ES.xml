@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<compiereTrl baseLanguage="en_US" language="es_ES" table="AD_REF_LIST" version="">
+  <row id="00A1C6914DA648E7812E792D6D527B7E" trl="N">
+    <value column="Name" isTrl="N" original="HAPPYPAY">HAPPYPAY</value>
+    <value column="Description" isTrl="N" original=""/>
+  </row>
+  <row id="20FD1288952D4292B979BB5BD497A18A" trl="N">
+    <value column="Name" isTrl="N" original="RECOVER">RECOVER</value>
+    <value column="Description" isTrl="N" original=""/>
+  </row>
+  <row id="265DFF7C7DE9411C9A16A3BAB852D254" trl="Y">
+    <value column="Name" isTrl="Y" original="Rejected">Rechazado</value>
+    <value column="Description" isTrl="N" original=""/>
+  </row>
+  <row id="2DF0556E719E470EB6CF0C1D1942D1E3" trl="Y">
+    <value column="Name" isTrl="Y" original="Accepted">Aceptado</value>
+    <value column="Description" isTrl="N" original=""/>
+  </row>
+  <row id="354D94432B9343EA9BA8EF007CE30857" trl="Y">
+    <value column="Name" isTrl="Y" original="Alive">Vivo</value>
+    <value column="Description" isTrl="N" original=""/>
+  </row>
+  <row id="37AB62E30DDC405998CC955A4B32E40F" trl="Y">
+    <value column="Name" isTrl="Y" original="Rejected">Rechazado</value>
+    <value column="Description" isTrl="N" original=""/>
+  </row>
+  <row id="640ABE63BB194002A24E608B6CBEC66C" trl="Y">
+    <value column="Name" isTrl="Y" original="Continues">Continúa</value>
+    <value column="Description" isTrl="N" original=""/>
+  </row>
+  <row id="ACD1596107F9487E8783E0C45026700B" trl="Y">
+    <value column="Name" isTrl="Y" original="Continues">Continúa</value>
+    <value column="Description" isTrl="N" original=""/>
+  </row>
+  <row id="C35425D855C54637A708D62EA67D768D" trl="Y">
+    <value column="Name" isTrl="Y" original="Deceased">Fallecido</value>
+    <value column="Description" isTrl="N" original=""/>
+  </row>
+  <row id="C4B7A0D4DEBA42D39778068DFE004B36" trl="N">
+    <value column="Name" isTrl="N" original="ICESA">ICESA</value>
+    <value column="Description" isTrl="N" original=""/>
+  </row>
+  <row id="CC71C29AE9144A9593EC83B7A6E74F93" trl="Y">
+    <value column="Name" isTrl="Y" original="Rejected">Rechazado</value>
+    <value column="Description" isTrl="N" original=""/>
+  </row>
+  <row id="EA1F451548BC430CB34B8A9FC82260FF" trl="N">
+    <value column="Name" isTrl="N" original="CREDICORP">CREDICORP</value>
+    <value column="Description" isTrl="N" original=""/>
+  </row>
+  <row id="ED873471C0784EEF8B12756C9A14F715" trl="N">
+    <value column="Name" isTrl="N" original="HAPPYCEL">HAPPYCEL</value>
+    <value column="Description" isTrl="N" original=""/>
+  </row>
+</compiereTrl>

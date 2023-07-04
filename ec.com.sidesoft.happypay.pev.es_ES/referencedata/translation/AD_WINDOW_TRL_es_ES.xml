@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<compiereTrl baseLanguage="en_US" language="es_ES" table="AD_WINDOW" version="">
+  <row id="13B7CCA0CA0845D59B09070CC15D23FB" trl="Y">
+    <value column="Name" isTrl="Y" original="Internal Debt">Deuda Interna</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
+  <row id="2E30FFCE9D984E6E958F46FBCBE0BC7B" trl="Y">
+    <value column="Name" isTrl="Y" original="Reason">Motivo</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
+  <row id="6D806C02043E454582BB5BCFF923EEE4" trl="Y">
+    <value column="Name" isTrl="Y" original="Email Reason">Motivos de Correo</value>
+    <value column="Description" isTrl="N" original="Email Reason">Email Reason</value>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
+  <row id="901C3E594D01464FAABAE643475E89E4" trl="Y">
+    <value column="Name" isTrl="Y" original="Reasons of State Of Life">Motivos de Estado de Vida</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
+  <row id="A0197324CE224E6187D71248BA7E6838" trl="Y">
+    <value column="Name" isTrl="Y" original="Reason of profession">Motivo de Profesión</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
+  <row id="C491A9512C7A4F9897C74B13CDB7B95B" trl="N">
+    <value column="Name" isTrl="Y" original="Identification Reason">Motivo de Cedulas</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
+  <row id="DC3CE166D8634021B41A789450E18B81" trl="Y">
+    <value column="Name" isTrl="Y" original="Reason Age">Edad</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
+  <row id="ECC1A56F081849F38987672A373BBAA3" trl="Y">
+    <value column="Name" isTrl="Y" original="Phone Reason">Motivo de Teléfonos</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
+</compiereTrl>
